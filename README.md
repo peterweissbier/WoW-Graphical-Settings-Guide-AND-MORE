@@ -1,3 +1,1 @@
-# wow-graphics-guide
-
-https://www.logicalincrements.com/games/wow
+## https://www.logicalincrements.com/games/wow
